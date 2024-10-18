@@ -1,10 +1,4 @@
-# username = input("What Is Your Name:")
-# fathername = input("What Is Your Father Name:")
-# mothername = input("What Is Your Mother Name:")
-# study = input("Which Class Do You Read In:")
-# relationship = input("Tell Me About Your Relationship Status:")
-#
-# print(f"My Doggy Name Is {username}")
+
 
 q1 = input("Country?")
 q2 = input("Verb ending in -ing?")
